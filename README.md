@@ -10,6 +10,6 @@ En el siguiente código se muestra como se realiza el cambio de estilos según e
 
 ![mul-css-react](https://user-images.githubusercontent.com/71619972/110568531-246d9f80-8121-11eb-8be1-925f229e598b.PNG)
 
-LINK: 
+LINK: https://pedromanueljm.github.io/MULTIPLE_CLASES_CSS_REACT_JS/
 
 
