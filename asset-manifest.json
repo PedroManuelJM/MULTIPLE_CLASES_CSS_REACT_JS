@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MULTIPLE_CLASES_CSS_REACT_JS/static/css/main.07d065f5.chunk.css",
+    "main.js": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/main.9840c352.chunk.js",
+    "main.js.map": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/main.9840c352.chunk.js.map",
+    "runtime-main.js": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/runtime-main.1707eef1.js",
+    "runtime-main.js.map": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/runtime-main.1707eef1.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/MULTIPLE_CLASES_CSS_REACT_JS/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4804ed1f.chunk.js": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/2.4804ed1f.chunk.js",
+    "static/js/2.4804ed1f.chunk.js.map": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/2.4804ed1f.chunk.js.map",
+    "static/js/3.ff875ac2.chunk.js": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/3.ff875ac2.chunk.js",
+    "static/js/3.ff875ac2.chunk.js.map": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/3.ff875ac2.chunk.js.map",
+    "index.html": "/MULTIPLE_CLASES_CSS_REACT_JS/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/MULTIPLE_CLASES_CSS_REACT_JS/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.07d065f5.chunk.css.map": "/MULTIPLE_CLASES_CSS_REACT_JS/static/css/main.07d065f5.chunk.css.map",
+    "static/js/2.4804ed1f.chunk.js.LICENSE.txt": "/MULTIPLE_CLASES_CSS_REACT_JS/static/js/2.4804ed1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1707eef1.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.4804ed1f.chunk.js",
+    "static/css/main.07d065f5.chunk.css",
+    "static/js/main.9840c352.chunk.js"
+  ]
+}
